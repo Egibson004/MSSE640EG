@@ -104,3 +104,4 @@ push and pull commands serve as the essential communication channels, enabling d
 A defining characteristic that sets Git apart from many traditional version control systems is its unique three-stage model for tracking changes. While many older systems typically employ a two-tier architecture (a repository and a working copy), Git's design is optimized with distinct stages: the Working Directory, the Staging Area (also known as the Index), and the Local Repository (often referred to as the Git Directory).2 This multi-stage approach provides granular control over the commit process.
 
 # MSSE640-2025summer
+[Assignment #4](./Assignment4Gibson.md)
