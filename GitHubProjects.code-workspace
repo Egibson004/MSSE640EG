@@ -1,9 +1,11 @@
 {
 	"folders": [
 		{
+			"name": "GitHubProjects",
 			"path": ".."
 		},
 		{
+			"name": "src",
 			"path": "../../../eclipse-workspace/Triangle_Classifier/src"
 		}
 	],
