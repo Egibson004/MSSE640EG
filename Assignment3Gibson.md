@@ -530,3 +530,5 @@
     $ git branch
     * main
     ```
+    ![Delete Branch](branch_delete.JPG)
+    
