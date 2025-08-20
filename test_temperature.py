@@ -1,5 +1,5 @@
 import unittest
-from TempConvert import celsius_to_fahrenheit, fahrenheit_to_celsius
+from temperature import celsius_to_fahrenheit, fahrenheit_to_celsius
 
 class TestTemperatureConverter(unittest.TestCase):
     def test_celsius_to_fahrenheit(self):
