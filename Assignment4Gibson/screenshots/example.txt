@@ -1,0 +1,10 @@
+This file is intended to store the paths or descriptions of the screenshots taken during the assignment process. Please include the following information:
+
+1. Screenshot of creating a new feature branch in Visual Studio Code.
+![Branches.JPG]
+2. Screenshot of the command line showing the local and remote branches.
+3. Screenshot of committing changes to the local repository.
+4. Screenshot of the pull request issued on GitHub.
+5. Screenshot of the command line after running `git fetch -p` to delete the remote feature branch.
+
+Make sure to replace the descriptions with the actual paths or details of your screenshots as you complete the assignment.
