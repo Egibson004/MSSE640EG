@@ -109,3 +109,4 @@ A defining characteristic that sets Git apart from many traditional version cont
 [Assignment #4](./Assignment4Gibson.md)
 [Assignment #5](./Assignment5CollaborationFile.md)
 [Assignment #6](./Assignment6Gibson.md)
+https://youtu.be/yxV4Dg6dzg0
